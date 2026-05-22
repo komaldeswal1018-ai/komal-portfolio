@@ -1,4 +1,4 @@
-# kom# 👋 Hi, I'm Komal Deswal
+👋 Hi, I'm Komal Deswal
 
 ### MCA Student at IGNOU | Aspiring Web & Unity Developer
 
